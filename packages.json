@@ -1,0 +1,10 @@
+{
+	"minimumVersion": 1.2,
+	"packages": [{
+		"title": "Space Out",
+		"name": "Space Out",
+		"version": "2018-01-18-22-39-58",
+		"location": "space-out.json",
+		"priority": 0
+	}]
+}
